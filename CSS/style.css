@@ -1,0 +1,94 @@
+
+.calender{
+           
+            max-width: 1000px;
+            font-family: serif;
+            font-weight: bold;
+            color: black;
+            margin: 5% auto;
+          
+}
+.month{
+            max-width: 1000px;
+            text-align: center;
+            background: linear-gradient(rgba(128,128,128,0.1),rgba(128,128,128,0.1));
+            font-size: 80px;
+       
+            color: white;
+            border:3px solid white;
+            border-bottom: none;
+}
+table, th, td{
+   max-width: 1000px;
+            width: 100%;
+            table-layout: fixed;
+            text-align: center;
+            font-size: 27px;
+            border-collapse: collapse;
+            border:4px solid floralwhite;
+            font-family: Elaphant;
+             background: linear-gradient(rgba(128,128,128,0.1),rgba(128,128,128,0.1));
+}
+tr, th, td{
+            padding: 19px;
+            max-width: 1000%;
+}
+th{
+            background:linear-gradient(rgba(1,0,0,0.1),rgba(1,0,0,0.1));
+            color: white;
+            font-family: arial black;
+}
+td{
+           background:linear-gradient(rgba(1,0,0,0.1),rgba(1,0,0,0.1));
+            color: white;
+}
+td:hover{
+            background: linear-gradient(rgba(128,128,128,0.4),rgba(128,128,128,0.4));
+}
+.left{
+   background: linear-gradient(rgba(128,128,128,0.4),rgba(128,128,128,0.2));
+  border: none;
+  color: white;
+  padding: 15px 32x;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0 100px 10px 0;
+  cursor: pointer;
+
+}
+.right{
+   background: linear-gradient(rgba(128,128,128,0.4),rgba(128,128,128,0.2));
+  border: none;
+  color: white;
+  padding: 15px 32x;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0 0 0 100px;
+  cursor: pointer;
+
+}
+.calendar{
+           
+            max-width: 1000px;
+            font-family: serif;
+            font-weight: 300px;
+            font-size: large !important;
+            color: black;
+            margin: 15% auto;
+}
+.calendar q{
+           
+         font-weight: 250px;
+         font-family: cursive;
+
+}
+@media screen and (max-width: 600px)}
+.sun{
+   background: linear-gradient(rgba(255,0,0,0.1),rgba(255,0,0,0.1));
+}
+@media screen and (max-width: 1000px)
+
